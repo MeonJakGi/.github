@@ -9,6 +9,6 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 |:---:|:---:|:---:|:---:|
 | 김민정 | 노유림 | 박래윤 | 최다정 |
 | AI | Backend | Frontend | AI |
-| [isakacindy](https://github.com/isakacindy) | [da-jeong](https://github.com/da-jeong) | [prprpray](https://github.com/prprpray) | [yourim01](https://github.com/yourim01) |
+| [isakacindy](https://github.com/isakacindy) | [yourim01](https://github.com/yourim01) | [prprpray](https://github.com/prprpray) | [da-jeong](https://github.com/da-jeong) |
 
 <br/>

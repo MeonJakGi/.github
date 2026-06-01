@@ -15,7 +15,7 @@ Be:show는 매대 이미지를 분석해 상품 위치와 진열 상태를 감�
 
 ### 팀 소개
 
-| <img src="https://avatars.githubusercontent.com/u/94227598?v=4" alt="김민정" width="200" height="200">  | <img src="./img/yourim.png" alt="노유림" width="200" height="200"> | <img src="./img/raeyoon.jpg" alt="박래윤" width="200" height="200"> | <img src="https://avatars.githubusercontent.com/u/80518843?v=4" alt="최다정" width="200" height="200"> |
+| <img src="./img/minjeong.jpg" alt="김민정" width="200" height="200">  | <img src="./img/yourim.png" alt="노유림" width="200" height="200"> | <img src="./img/raeyoon.jpg" alt="박래윤" width="200" height="200"> | <img src="./img/dajeong.jpg" alt="최다정" width="200" height="200"> |
 |:---:|:---:|:---:|:---:|
 | 김민정 | 노유림 | 박래윤 | 최다정 |
 | AI | Backend | Frontend | AI |

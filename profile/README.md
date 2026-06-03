@@ -89,11 +89,11 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
 ### 화면
 | 화면 | 이미지 | 설명 |
 | --- | --- | --- |
-| 선반 모니터링 | <img width="848" height="471" alt="선반 모니터링" src="https://github.com/user-attachments/assets/여기에_선반모니터링_URL" /> | AI가 분석한 매대 이미지를 기반으로 현재 선반의 진열 상태를 확인합니다.<br>정상, 보충 필요, 확인 필요 수량을 요약하고, bbox로 문제 상품 위치를 시각화합니다. |
-| 보충 필요 리스트 | <img width="848" height="471" alt="보충 필요 리스트" src="https://github.com/user-attachments/assets/여기에_보충필요리스트_URL" /> | 매대에서 즉시 처리해야 하는 보충 필요 및 확인 필요 상품을 제공합니다.<br>상품명, 상태, 위치, 탐지 시각을 확인하고 보충 완료 또는 확인 완료 처리를 할 수 있습니다. |
-| 발주 필요 리스트 | <img width="848" height="471" alt="발주 필요 리스트" src="https://github.com/user-attachments/assets/여기에_발주필요리스트_URL" /> | 창고 재고가 부족하거나 재주문 기준점에 도달한 상품을 별도로 제공합니다.<br>재고 부족 상품과 발주 검토가 필요한 상품을 빠르게 확인할 수 있습니다. |
-| 상세 모달 | <img width="848" height="471" alt="상세 모달" src="https://github.com/user-attachments/assets/여기에_상세모달_URL" /> | 선택한 상품의 탐지 결과와 판단 근거를 상세히 확인합니다.<br>선반, Slot, 현재 재고, ROP, 상태 reason을 함께 제공합니다. |
-| 긴급 알림 패널 | <img width="848" height="471" alt="긴급 알림 패널" src="https://github.com/user-attachments/assets/여기에_알림패널_URL" /> | 즉시 확인이 필요한 작업을 알림으로 제공합니다.<br>SKU 완전 부재, 오진열 및 Slot 이탈 상황을 우선 안내합니다. |
+| 선반 모니터링 | <img width="848" height="471" alt="선반 모니터링" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-1.png" /> | AI가 분석한 매대 이미지를 기반으로 현재 선반의 진열 상태를 확인합니다.<br>정상, 보충 필요, 확인 필요 수량을 요약하고, bbox로 문제 상품 위치를 시각화합니다. |
+| 보충 필요 리스트 | <img width="848" height="471" alt="보충 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-2.png" /> | 매대에서 즉시 처리해야 하는 보충 필요 및 확인 필요 상품을 제공합니다.<br>상품명, 상태, 위치, 탐지 시각을 확인하고 보충 완료 또는 확인 완료 처리를 할 수 있습니다. |
+| 발주 필요 리스트 | <img width="848" height="471" alt="발주 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-2.png" /> | 창고 재고가 부족하거나 재주문 기준점에 도달한 상품을 별도로 제공합니다.<br>재고 부족 상품과 발주 검토가 필요한 상품을 빠르게 확인할 수 있습니다. |
+| 상세 모달 | <img width="848" height="471" alt="상세 모달" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1_modal.png" /> | 선택한 상품의 탐지 결과와 판단 근거를 상세히 확인합니다.<br>선반, Slot, 현재 재고, ROP, 상태 reason을 함께 제공합니다. |
+| 긴급 알림 패널 | <img width="848" height="471" alt="긴급 알림 패널" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-opt.png" /> | 즉시 확인이 필요한 작업을 알림으로 제공합니다.<br>SKU 완전 부재, 오진열 및 Slot 이탈 상황을 우선 안내합니다. |
 
 ### 시연영상
 > 시연 영상은 준비 중입니다.

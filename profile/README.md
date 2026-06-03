@@ -53,7 +53,7 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
 대시보드가 분석 결과와 이미지 URL을 받아 선반 상태와 작업 리스트를 표시합니다.
 
 ### ERD
-> ERD는 준비 중입니다.
+<img width="3275" height="1494" alt="Image" src="https://github.com/user-attachments/assets/bbf2657e-7aab-4243-bd2d-8aa3502bad26" />
 
 ### 기술 스택
 #### AI

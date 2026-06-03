@@ -86,7 +86,9 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
 <br />
 
 ## 3) 서비스 소개
+
 ### 화면
+
 <table>
   <thead>
     <tr>
@@ -130,6 +132,30 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
         재주문 기준점에 도달한 상품을 별도로 제공합니다.<br><br>
         재고 부족 상품과 발주 검토가 필요한 상품을<br>
         빠르게 확인할 수 있습니다.
+      </td>
+    </tr>
+    <tr>
+      <td width="20%">상세&nbsp;모달</td>
+      <td width="36%" align="center">
+        <img width="100%" alt="상세 모달" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1_modal.png" />
+      </td>
+      <td width="44%">
+        선택한 상품의 탐지 결과와<br>
+        판단 근거를 상세히 확인합니다.<br><br>
+        선반, Slot, 현재 재고, ROP,<br>
+        상태 reason을 함께 제공합니다.
+      </td>
+    </tr>
+    <tr>
+      <td width="20%">긴급&nbsp;알림&nbsp;패널</td>
+      <td width="36%" align="center">
+        <img width="100%" alt="긴급 알림 패널" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-opt.png" />
+      </td>
+      <td width="44%">
+        즉시 확인이 필요한 작업을<br>
+        알림으로 제공합니다.<br><br>
+        SKU 완전 부재, 오진열 및 Slot 이탈 상황을<br>
+        우선 안내합니다.
       </td>
     </tr>
   </tbody>

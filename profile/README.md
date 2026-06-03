@@ -91,17 +91,17 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
   <thead>
     <tr>
       <th width="12%">화면</th>
-      <th width="55%">이미지</th>
-      <th width="33%">설명</th>
+      <th width="40%">이미지</th>
+      <th width="48%">설명</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>선반 모니터링</td>
-      <td align="center">
-        <img width="80%" alt="선반 모니터링" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-1.png" />
+      <td width="12%">선반 모니터링</td>
+      <td width="40%" align="center">
+        <img width="100%" alt="선반 모니터링" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-1.png" />
       </td>
-      <td>
+      <td width="48%">
         AI가 분석한 매대 이미지를 기반으로<br>
         현재 선반의 진열 상태를 확인합니다.<br><br>
         정상, 보충 필요, 확인 필요 수량을 요약하고,<br>
@@ -109,11 +109,11 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
       </td>
     </tr>
     <tr>
-      <td>보충 필요<br>리스트</td>
-      <td align="center">
-        <img width="80%" alt="보충 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-2.png" />
+      <td width="12%">보충 필요<br>리스트</td>
+      <td width="40%" align="center">
+        <img width="100%" alt="보충 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-2.png" />
       </td>
-      <td>
+      <td width="48%">
         매대에서 즉시 처리해야 하는<br>
         보충 필요 및 확인 필요 상품을 제공합니다.<br><br>
         상품명, 상태, 위치, 탐지 시각을 확인하고<br>
@@ -121,24 +121,23 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
       </td>
     </tr>
     <tr>
-      <td>발주 필요<br>리스트</td>
-      <td align="center">
-        <img width="80%" alt="발주 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-2.png" />
+      <td width="12%">발주 필요<br>리스트</td>
+      <td width="40%" align="center">
+        <img width="100%" alt="발주 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-2.png" />
       </td>
-      <td>
+      <td width="48%">
         창고 재고가 부족하거나<br>
-        재주문 기준점에 도달한 상품을<br>
-        별도로 제공합니다.<br><br>
+        재주문 기준점에 도달한 상품을 별도로 제공합니다.<br><br>
         재고 부족 상품과 발주 검토가 필요한 상품을<br>
         빠르게 확인할 수 있습니다.
       </td>
     </tr>
     <tr>
-      <td>상세 모달</td>
-      <td align="center">
-        <img width="80%" alt="상세 모달" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1_modal.png" />
+      <td width="12%">상세 모달</td>
+      <td width="40%" align="center">
+        <img width="100%" alt="상세 모달" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1_modal.png" />
       </td>
-      <td>
+      <td width="48%">
         선택한 상품의 탐지 결과와<br>
         판단 근거를 상세히 확인합니다.<br><br>
         선반, Slot, 현재 재고, ROP,<br>
@@ -146,11 +145,11 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
       </td>
     </tr>
     <tr>
-      <td>긴급 알림 패널</td>
-      <td align="center">
-        <img width="80%" alt="긴급 알림 패널" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-opt.png" />
+      <td width="12%">긴급 알림 패널</td>
+      <td width="40%" align="center">
+        <img width="100%" alt="긴급 알림 패널" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-opt.png" />
       </td>
-      <td>
+      <td width="48%">
         즉시 확인이 필요한 작업을<br>
         알림으로 제공합니다.<br><br>
         SKU 완전 부재, 오진열 및 Slot 이탈 상황을<br>

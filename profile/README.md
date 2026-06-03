@@ -98,8 +98,8 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
   <tbody>
     <tr>
       <td>선반 모니터링</td>
-      <td>
-        <img width="100%" alt="선반 모니터링" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-1.png" />
+      <td align="center">
+        <img width="80%" alt="선반 모니터링" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-1.png" />
       </td>
       <td>
         AI가 분석한 매대 이미지를 기반으로<br>
@@ -110,8 +110,8 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
     </tr>
     <tr>
       <td>보충 필요<br>리스트</td>
-      <td>
-        <img width="100%" alt="보충 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-2.png" />
+      <td align="center">
+        <img width="80%" alt="보충 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1-2.png" />
       </td>
       <td>
         매대에서 즉시 처리해야 하는<br>
@@ -122,8 +122,8 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
     </tr>
     <tr>
       <td>발주 필요<br>리스트</td>
-      <td>
-        <img width="100%" alt="발주 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-2.png" />
+      <td align="center">
+        <img width="80%" alt="발주 필요 리스트" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-2.png" />
       </td>
       <td>
         창고 재고가 부족하거나<br>
@@ -135,8 +135,8 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
     </tr>
     <tr>
       <td>상세 모달</td>
-      <td>
-        <img width="100%" alt="상세 모달" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1_modal.png" />
+      <td align="center">
+        <img width="80%" alt="상세 모달" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-1_modal.png" />
       </td>
       <td>
         선택한 상품의 탐지 결과와<br>
@@ -147,8 +147,8 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
     </tr>
     <tr>
       <td>긴급 알림 패널</td>
-      <td>
-        <img width="100%" alt="긴급 알림 패널" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-opt.png" />
+      <td align="center">
+        <img width="80%" alt="긴급 알림 패널" src="https://github.com/MeonJakGi/.github/blob/main/profile/img/scr-opt.png" />
       </td>
       <td>
         즉시 확인이 필요한 작업을<br>

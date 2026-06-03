@@ -30,8 +30,7 @@ Be:show는 이러한 반복 확인 업무를 줄이기 위해 매대 상태를 �
 
 ## 2) 주요 개발 내용
 ### 아키텍처 도식도
-<img width="1308" height="709" alt="Image" src="https://github.com/user-attachments/assets/25e8b04f-4ceb-40c5-a4a3-2789f9d2689a" />
-
+<img width="1285" height="642" alt="Image" src="https://github.com/user-attachments/assets/7e90ce27-8ae9-41a0-8dd9-6b8c858519be" />
 Be:show는 고정 카메라가 촬영한 매대 이미지를 S3에 저장하고, AI 서버가 이미지를 분석한 뒤 결과를 DB에 저장하여 대시보드에 제공하는 구조로 동작합니다.
 
 ### 처리 흐름 요약

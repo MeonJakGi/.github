@@ -23,7 +23,7 @@ Be:show는 이러한 반복 확인 업무를 줄이기 위해 매대 상태를 �
 | <img src="./img/minjeong.jpg" alt="김민정" width="200" height="200">  | <img src="./img/yourim.png" alt="노유림" width="200" height="200"> | <img src="./img/raeyoon.jpg" alt="박래윤" width="200" height="200"> | <img src="./img/dajeong.jpg" alt="최다정" width="200" height="200"> |
 |:---:|:---:|:---:|:---:|
 | 김민정 | 노유림 | 박래윤 | 최다정 |
-| AI | Backend | Frontend | AI |
+| Team Leader<br>AI | Backend | Frontend | AI |
 | [isakacindy](https://github.com/isakacindy) | [yourim01](https://github.com/yourim01) | [prprpray](https://github.com/prprpray) | [da-jeong](https://github.com/da-jeong) |
 
 <br />
@@ -161,7 +161,7 @@ AI 서버가 이미지를 로드하고, 슬롯·진열표·재고 정보를 조�
 </table>
 
 ### 시연영상
-> 시연 영상은 준비 중입니다.
+[![비었쇼 시연 영상](https://img.youtube.com/vi/NNrM8mX5Pig/maxresdefault.jpg)](https://www.youtube.com/watch?v=NNrM8mX5Pig)
 
 <br />
 
